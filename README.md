@@ -4,7 +4,7 @@ Created following Level Up's [intermediate Meteor tutorial](https://www.youtube.
 
 I chose to place the index.html and other client files all in the client/ folder.
 
-To test, clone or download and install dependencies:
+To test, clone or download, install dependencies, and run meteor:
 
 `$ meteor npm install --save babel-runtime`
 
